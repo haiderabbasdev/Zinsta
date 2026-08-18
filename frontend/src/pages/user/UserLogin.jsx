@@ -23,7 +23,7 @@ const UserLogin = () => {
   
     console.log(respone.data);
     
-    navigate("/");
+    navigate("/Home");
 
   };
 
